@@ -7,7 +7,7 @@ I don't fear a man who studied multiple programming languages
 I fear a man who mastered only one programming langauge
 ```
 
-All i know is GameMaker Language **(GML)**, specifically latest versions **(2.3+)**
+All i know is GameMaker Language **(GML)**, specificially latest versions **(2.3+)**
 
 Formerly was a **Forts** modder **(Lua)**
 
