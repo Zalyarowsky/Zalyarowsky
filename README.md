@@ -1,10 +1,9 @@
 ### That's me, username is [@Zalyarowsky](https://github.com/Zalyarowsky/) AKA Aleksandr Tretyakov
 
-<div align="center"><img width="512" height="512" alt="mia" src="https://github.com/user-attachments/assets/6d9ed680-bea6-4ff2-a868-389d392e1cbb" /></div>
+<div align="center"><img width="314" height="314" alt="PoppiArcade_circle" src="https://github.com/user-attachments/assets/59b007d8-f999-486a-b537-b2e2be2bcc50" /></div>
 
 ```
-I don't fear a man who studied multiple programming languages
-I fear a man who mastered only one programming langauge
+IDK what to write here
 ```
 
 All i know is GameMaker Language **(GML)**, specificially latest versions **(2.3+)**
