@@ -10,7 +10,7 @@ All i know is GameMaker Language **(GML)**, specificially latest versions **(2.3
 
 Formerly was known as **Forts** modder **(Lua)**
 
-Currently **GameMaker** dev and **pixel art** enthusiast
+Currently (probably formerly if i forgot about updating README.md) **GameMaker** dev and **pixel art** enthusiast
 
 # Finished stuff
 
