@@ -6,9 +6,9 @@
 IDK what to write here
 ```
 
-All i know is GameMaker Language **(GML)**, specificially latest versions **(2.3+)**
+All i know is GameMaker Language **(GML)**, specificially latest versions **(2.3+ (it could be even newer today))**
 
-Formerly was a **Forts** modder **(Lua)**
+Formerly was known as **Forts** modder **(Lua)**
 
 Currently **GameMaker** dev and **pixel art** enthusiast
 
